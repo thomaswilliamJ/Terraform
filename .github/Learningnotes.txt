@@ -1,0 +1,4 @@
+Deployment - the set of resources created by a terraform config
+Provider - a cloud or system specific terraform plugin that supports resource creation for that system
+Module - an isolated ,reusable sub configuration
+Variable - a named container for a typed value
